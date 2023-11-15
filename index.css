@@ -1,0 +1,35 @@
+body {
+  background-color: rgb(41, 39, 39);
+}
+
+.container-el {
+  margin-top: 55px;
+}
+
+button {
+  background-color: rgb(56, 53, 53);
+  color: white;
+  width: 80px;
+  height: 50px;
+  font-size: 25px;
+  border-radius: 80px;
+  border: none;
+  margin-bottom: 13px;
+  margin-right: 8px;
+  cursor: pointer;
+  box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.3);
+}
+
+#multiplication-btn ,
+#subtraction-btn ,
+#delete-btn ,
+#front-sign-btn ,
+#percentage-btn ,
+#division-btn ,
+.addition-btn {
+  color: rgb(101, 78, 165);
+}
+
+#equal-btn {
+  background-color: rgb(101, 78, 165);
+}
